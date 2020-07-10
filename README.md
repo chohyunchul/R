@@ -1,2 +1,4 @@
-# 청년혁신가 양성과정
-## R데이터 분석 및 deep learning, Machine learning
+Machine Learning
+Machine Learning 강좌
+산업융합형 인공지능 청년혁신가 양성과정
+대전 미래융합교육학원에서 2020년 5월부터 11월까지 진행됩니다
